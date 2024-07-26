@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "neat-csv": "^5.2.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "cypress-xpath": "^2.0.1",
+    "node-xlsx": "^0.24.0",
+    "save": "^2.9.0"
+  }
+}
